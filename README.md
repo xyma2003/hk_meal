@@ -76,6 +76,7 @@ hk_meal/
 - [宵夜 Late Night](lists/late-night.md)
 - [米其林/必比登 Michelin](lists/michelin.md)
 - [甜品 Dessert](lists/dessert.md)
+- [东南亚 Southeast Asian](lists/southeast-asian.md)
 - [约会 Date Night](lists/date-night.md)
 
 ### Top 10
