@@ -107,11 +107,11 @@ hk_meal/
 
 | # | 店 | 地区 | 菜系 | 价位 | 综合 | 必点 | 最近访问 |
 |---|---|---|---|---|---|---|---|
-| 1 | [亚参海南鸡饭](restaurants/causeway-bay/assam-chicken-rice.md) | 铜锣湾 | 东南亚 / 海南鸡 | $ | 8.6 | 海南鸡饭;马来拉茶 | 2025 |
+| 1 | [亚参海南鸡饭](restaurants/causeway-bay/assam-chicken-rice.md) | 铜锣湾 | 东南亚 / 海南鸡 | $ | 8.6 | 海南鸡饭;马来拉茶;咖央多士(分人喜好) | 2025 |
 | 2 | [二号冰室](restaurants/mongkok/no-2-cafe.md) | 旺角 | 茶餐厅 | $ | 8.0 | 干炒牛河;菠萝油;港式奶茶;红豆冰 | 2025-06 |
-| 3 | [松屋甜品店](restaurants/sai-ying-pun/song-dessert.md) | 西营盘 | 甜品 | $$ | 8.0 | 提拉米苏 | 2025 |
+| 3 | [松屋甜品店](restaurants/sai-ying-pun/song-dessert.md) | 西营盘 | 甜品 | $$ | 8.0 | 提拉米苏,蛋包饭 | 2025 |
 | 4 | [阿元来了](restaurants/kennedy-town/a-yuan-lai-le.md) | 坚尼地城 | 台式 | $ | 7.9 | 珍珠奶茶;蚵仔煎;蛋卷 | 多次 |
-| 5 | [牛奶冰室](restaurants/causeway-bay/milk-house.md) | 铜锣湾 | 茶餐厅 | $ | 7.7 | 港式奶茶 | 2025 |
+| 5 | [牛奶冰室](restaurants/causeway-bay/milk-house.md) | 铜锣湾 | 茶餐厅 | $ | 7.7 | 港式奶茶;冰火菠萝油 | 2025 |
 | 6 | [新兴食家](restaurants/kennedy-town/sun-hing.md) | 坚尼地城 | 粤菜 / 早茶 | $ | 7.5 | 流沙包;风爪;虾饺;炸鲜奶 | 多次 |
 | 7 | [BHC Chicken](restaurants/causeway-bay/bhc.md) | 铜锣湾 | 韩式炸鸡 | $$$ | 7.4 | 芝士炸鸡;芝士球 | 2025 |
 | 8 | [十二味（坚尼地城）](restaurants/kennedy-town/shi-er-wei-kt.md) | 坚尼地城 | 川菜 | $ | 7.1 | 麻辣香锅 | 多次 |
