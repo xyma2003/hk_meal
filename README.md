@@ -79,6 +79,7 @@ hk_meal/
 - [东南亚 Southeast Asian](lists/southeast-asian.md)
 - [台式 Taiwanese](lists/taiwanese.md)
 - [约会 Date Night](lists/date-night.md)
+- [已关店 Closed 🕊️](lists/closed.md)
 
 ### Top 10
 
