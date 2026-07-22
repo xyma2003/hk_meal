@@ -4,8 +4,8 @@
 
 - 店文件：`restaurants/<area>/<slug>.md`
   - `<area>` 用英文：`central` / `wan-chai` / `causeway-bay` / `tst` / `mongkok` / `jordan` / `sham-shui-po` / `hkust` 等
-  - `<slug>` 用店名英文或拼音，短横线分词：`yat-lok` / `kau-kee` / `au-donald`
-- 照片：`photos/<slug>/<描述>.jpg`，如 `photos/yat-lok/goose-thigh.jpg`
+  - `<slug>` 用店名英文或拼音，短横线分词：`no-2-cafe` / `assam-chicken-rice` / `shi-er-wei-kt`
+- 照片：`photos/<slug>/<描述>.jpg`，如 `photos/assam-chicken-rice/chicken-rice.jpg`
 - 主题列表：`lists/<主题英文>.md`，如 `lists/dim-sum.md`
 
 ## 店文件模板
@@ -50,8 +50,7 @@
 
 | # | 店 | 地区 | 分 | 必点 |
 |---|---|---|---|---|
-| 1 | [一乐烧鹅](../restaurants/central/yat-lok.md) | 中环 | 8.5 | 烧鹅脾饭 |
-| 2 | [莲香居](../restaurants/sheung-wan/lin-heung.md) | 上环 | 8.2 | 虾饺、马拉糕 |
+| 1 | [新兴食家](../restaurants/kennedy-town/sun-hing.md) | 坚尼地城 | 7.5 | 流沙包、风爪、虾饺、炸鲜奶 |
 ```
 
 ## 评分原则
